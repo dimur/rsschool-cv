@@ -1,46 +1,46 @@
 # **DMITRY A. MURZIN**
 
-Arzamas, Nizhny Novgorod Region, Russia
-Date of birth: March 9, 1981
-E-mail : <d.a.murzin@gmail.com>
-Telegram : <https://t.me/@DimAlek>
+Arzamas, Nizhny Novgorod Region, Russia  
+Date of birth: March 9, 1981  
+E-mail : <d.a.murzin@gmail.com>  
+Telegram : <https://t.me/@DimAlek>  
 
 ## **Professional Skills:**
 
-* Сommunicating hardware сonfiguration (D-link).
-* Microsoft’s operating systems administration.
-* Microsoft Active Directory administration.
-* GNU/Linux administration (Debian).
-* Scripting (bash, python).
-* Proxmox Virtual Environment administration.
-* Office Equipment configuration.
-* Computers and Office Equipment diagnostics and repair.
+* Сommunicating hardware сonfiguration (D-link)
+* Microsoft’s operating systems administration
+* Microsoft Active Directory administration
+* GNU/Linux administration (Debian)
+* Scripting (bash, python)
+* Proxmox Virtual Environment administration
+* Office Equipment configuration
+* Computers and Office Equipment diagnostics and repair
 
 ## **Work experience:**
 
-*Specialist*, IT Department, [JSC “Arzamas Communal Machine Building Plant (KOMMASH)”][1]
-July, 2012  – to present Nizhny Novgorod Region, Arzamas
-   Responsibilities:
+*Specialist*, IT Department, [JSC “Arzamas Communal Machine Building Plant (KOMMASH)”][1]  
+July, 2012  – to present Nizhny Novgorod Region, Arzamas  
+   Responsibilities:  
    Configuration of communicating hardware, VLAN configuration. Configuring network services/applications (Windows (AD, DNS, DHCP, TS), Debian(squid proxy, naudoc – ECM build on zope)). ECM NAUDOC support: update the system, revision the system by editing/writing python scripts.
 
-*System Administrator*, IT Department, [JSC “Arzamas Communal Machine Building Plant (KOMMASH)”][1]
-July, 2005 – July, 2012 (7 years and 1 month) Nizhny Novgorod Region, Arzamas
-   Responsibilities:
+*System Administrator*, IT Department, [JSC “Arzamas Communal Machine Building Plant (KOMMASH)”][1]  
+July, 2005 – July, 2012 (7 years and 1 month) Nizhny Novgorod Region, Arzamas  
+   Responsibilities:  
    Construction and maintenance of corporate LAN, configuration and commissioning of the new communicating hardware. Configuration and commissioning of workstations. Diagnosis and repair ( by replacement units ) computer and office equipment . Training and advising users.
 
-*Head of Technical Department*, JSC "Techno-Service-NN"
-February, 2004 – July, 2005 (1 year 6 months) Nizhny Novgorod
-   Responsibilities:
+*Head of Technical Department*, JSC "Techno-Service-NN"  
+February, 2004 – July, 2005 (1 year 6 months) Nizhny Novgorod  
+   Responsibilities:  
    Organization of the department, 3 electrical engineers in subjection.
 
-*Electrical Engineer*, JSC "Techno-Service-NN"
-August, 2003 – February, 2004 (7 months) Nizhny Novgorod
-   Responsibilities:
+*Electrical Engineer*, JSC "Techno-Service-NN"  
+August, 2003 – February, 2004 (7 months) Nizhny Novgorod  
+   Responsibilities:  
    Computers and Office Equipment (printers, scanners) diagnostics and repair.
 
 ## **Education:** bachelor degree.
 
-[Arzamas Polytechnical Institute](http://www.apingtu.edu.ru/) - branch of [Nizhny Novgorod State Technical University n.a. R.E. Alekseev (NNSTU)](http://en.nntu.ru/).
+[Arzamas Polytechnical Institute](http://www.apingtu.edu.ru/) - branch of [Nizhny Novgorod State Technical University n.a. R.E. Alekseev (NNSTU)](http://en.nntu.ru/).  
 Qualification: Engineer by profession «Information and measuring equipment and technology»
 
 ## **Courses:**
